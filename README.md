@@ -1,4 +1,4 @@
-<!-- ✨ Perfil de Ineri · inericont ✨ -->
+<!-- 🌸 Perfil de Ineri · inericont 🌸 -->
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 <br />
 
-## 💗 Sobre mí
+## 🌸 Sobre mí
 
 - Soy **Ineri Alejandra Contreras Pérez**, desarrolladora de software en México.
 - Contribuyo a **KRAKEN-APP** y la plataforma **KRAKEN** en [**Black-Sheep-Lab**](https://github.com/Black-Sheep-Lab), organización de la que soy miembro.
@@ -51,7 +51,7 @@
   </tr>
 </table>
 
-#### 🎀 La plataforma KRAKEN
+#### 🌸 La plataforma KRAKEN
 
 <table>
   <tr>
@@ -70,7 +70,7 @@
 
 <br />
 
-## 🎀 Tecnologías
+## 🌷 Tecnologías
 
 <table>
   <tr>
@@ -142,7 +142,7 @@
 
 <br /><br />
 
-<i>☁️ Hecho con código, café y mucho cariño desde México 💗</i>
+<i>☁️ Hecho con código, café y mucho cariño desde México 🌸</i>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=90&section=footer&color=0:f4a6c0,50:f9c5d5,100:fff5f8" width="100%" alt="" />
 
