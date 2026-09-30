@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=190&color=0:fff5f8,50:f9c5d5,100:f4a6c0&text=Ineri%20Alejandra&fontSize=52&fontColor=8a1c45&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20M%C3%A9xico&descSize=18&descAlignY=58" width="100%" alt="Ineri Alejandra · Software Developer" />
-
-<a href="https://github.com/inericont">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3200&pause=900&color=E75480&center=true&vCenter=true&width=560&lines=%C2%A1Hola!+Soy+Ineri+%E2%9C%A8;Construyo+software+con+cari%C3%B1o+y+precisi%C3%B3n;Web+%2B+APIs+%2B+ERP+%E2%86%92+operaciones+reales;KRAKEN-APP+%E2%80%A2+Black-Sheep-Lab" alt="Líneas animadas" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=190&color=0:fff5f8,50:f9c5d5,100:f4a6c0&text=Ineri%20Alejandra&fontSize=52&fontColor=8a1c45&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20M%C3%A9xico&descSize=18&descAlignY=58" width="100%" alt="Ineri Contreras · Software Developer" />
 
 <p><i>✨ Turning real-world operations into clean, lovely software ✨</i></p>
 
