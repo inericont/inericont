@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:5c1a33,40:c43b6e,100:f4a6c0&text=Ineri%20Alejandra&fontSize=46&fontColor=fffafb&fontAlignY=32&desc=Software%20para%20almacenes%20que%20s%C3%AD%20se%20usa&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Ineri Alejandra" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:5c1a33,40:c43b6e,100:f4a6c0&text=Ineri%20Alejandra&fontSize=46&fontColor=fffafb&fontAlignY=32&desc=Software%20para%20almacenes%20que%20s%C3%AD%20se%20usa&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Ineri Contreras" />
 
 <a href="https://github.com/inericont">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=2800&pause=1200&color=C43B6E&center=true&vCenter=true&width=640&lines=La+app+que+el+operador+lleva+en+la+mano;Esc%C3%A1ner%2C+picking%2C+recepci%C3%B3n+y+etiquetas;La+misma+operaci%C3%B3n%2C+en+el+celular+y+en+la+web" alt="Qué construyo" />
@@ -22,7 +22,7 @@
 
 Construyo el software con el que un almacén trabaja el día. No el diagrama: la pantalla que alguien usa de pie, con un escáner, una impresora de etiquetas y la mercancía enfrente.
 
-Soy **Ineri Alejandra Contreras Pérez**, desarrolladora en [**Black-Sheep-Lab**](https://github.com/Black-Sheep-Lab). Ahí armo **KRAKEN**, un WMS conectado al ERP **Microsip**. El repositorio que más llevo es la app móvil. La misma operación la sigo en la web y en la API, y la adapto cuando una empresa necesita su propia versión.
+Soy desarrolladora en [**Black-Sheep-Lab**](https://github.com/Black-Sheep-Lab). Ahí armo **KRAKEN**, un WMS conectado al ERP **Microsip**. El repositorio que más llevo es la app móvil. La misma operación la sigo en la web y en la API, y la adapto cuando una empresa necesita su propia versión.
 
 <br />
 
