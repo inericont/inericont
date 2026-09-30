@@ -35,7 +35,7 @@ Soy desarrolladora en [**Black-Sheep-Lab**](https://github.com/Black-Sheep-Lab).
       <b>KRAKEN-APP</b><br />
       <sub>Expo · React Native · la que más escribo yo</sub>
       <br /><br />
-      Escáner de códigos y QR, <i>picking</i>, recepción, acomodo, conteo cíclico, traspasos, etiquetas por Bluetooth y notificaciones. También las versiones de empresa: <b>Fyttsa</b> y <b>Martínez</b>, publicadas en Play Store.
+      Escáner de códigos y QR, <i>picking</i>, recepción, acomodo, conteo cíclico, traspasos, etiquetas por Bluetooth y notificaciones. Publicada en Play Store.
     </td>
     <td width="33%" valign="top">
       <h3>Web · escritorio</h3>
