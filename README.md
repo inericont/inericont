@@ -138,8 +138,6 @@
 
 <br /><br />
 
-<i>☁️ Hecho con código, café y mucho cariño desde México 🌸</i>
-
 <img src="https://capsule-render.vercel.app/api?type=soft&height=90&section=footer&color=0:f4a6c0,50:f9c5d5,100:fff5f8" width="100%" alt="" />
 
 </div>
